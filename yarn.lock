@@ -322,11 +322,6 @@
   resolved "https://registry.yarnpkg.com/@percy/env/-/env-1.0.8.tgz#3082c1878b7597ecfb1cb226e303e9f7fd4d02d8"
   integrity sha512-MRXxxMWWMMHj8Sgl1EQmhwhtMV7VhOIKBkWzqZKmQMoe1LhEkHaEQxc/kWdxYGZD5fVETQZcvoXRGSd7f22FDg==
 
-"@percy/logger@1.0.5":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@percy/logger/-/logger-1.0.5.tgz#31aec74ddcd2f7e2d8e6fa2d0211ad65eee43897"
-  integrity sha512-OT3/Xiuo1V4cHwqdDQfuvfMDRf7GhMrHK9HCiHE2dOakLqmIM0fexiCoD0k5Bd7fgjZ9G5YmFT9k5ymBmT9oOA==
-
 "@percy/logger@1.0.8":
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/@percy/logger/-/logger-1.0.8.tgz#c30606b39bdbf646fe896056b772a93314fcf409"
@@ -431,9 +426,9 @@
   integrity sha512-fZQQafSREFyuZcdWFAExYjBiCL7AUCdgsk80iO0q4yihYYdcIiH28CcuPTGFgLOCC8RlW49GSQxdHwZP+I7CNg==
 
 "@types/nightwatch@^2.0.0":
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/@types/nightwatch/-/nightwatch-2.0.6.tgz#4af2efbf2f260b4befb114e7e6a23aefc0c0a587"
-  integrity sha512-/5dXEJZ6spzHX5YejXSwfW4EiF85oSqKw3HX/tMnXYXr+HgG4j0GF3A/Q3M0XjkiUB5KXNZqCOg+hJGE8h8VAg==
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/@types/nightwatch/-/nightwatch-2.0.7.tgz#850552a93d7a6425cdf5fa917d02757d049c734b"
+  integrity sha512-2sRSUhoEjtPFs+eZbgrBNWy+XvD+Z3rZwzTyUkhAeTVxAAKpbyCciueUVsoBN7Izx4JYirVnw4nHHD+1j+IGIA==
   dependencies:
     "@types/selenium-webdriver" "*"
 
